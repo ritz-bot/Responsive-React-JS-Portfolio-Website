@@ -23,6 +23,9 @@ Welcome to the **Modern Responsive React JS Portfolio Website** project! This re
 ![Xnip2024-06-27_20-51-12](https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/55766032/d393749c-743c-4b62-aaad-f749dd25a464)
 
 - **Downloadable CV**: Visitors can download your CV directly from the website.
+![Xnip2024-06-27_20-58-13](https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/55766032/4cd55d91-157f-4fe8-affc-963d83f9b908)
+
+  
 - **Auto-Swipe Testimonials**: Display client testimonials with auto-swipe functionality for easy reading.
 
   
@@ -44,7 +47,7 @@ https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/5576603
 
 https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/55766032/75f7cdbd-0762-48a4-993d-3f8a9a3206a4
 
-![Website Preview](preview.png)
+
 
 ## 📚 Table of Contents
 
@@ -54,7 +57,6 @@ https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/5576603
 - [Project Structure](#project-structure)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🛠️ Installation
 
