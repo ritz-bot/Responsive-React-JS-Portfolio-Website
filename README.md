@@ -41,7 +41,6 @@ https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/5576603
   
 - **Cross-Browser Compatibility**: Works seamlessly across all major browsers.
 
-https://github.com/ritz-bot/Responsive-React-JS-Portfolio-Website/assets/55766032/75f7cdbd-0762-48a4-993d-3f8a9a3206a4
 
 ## 📸 Preview
 
